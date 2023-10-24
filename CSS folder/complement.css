@@ -1,0 +1,70 @@
+.news {
+  width: 350px;
+  text-align: justify;
+  display: block;
+}
+
+ol {
+  width: 350px;
+  text-align: justify;
+}
+
+ul {
+  width: 350px;
+  text-align: justify;
+}
+
+.reference-button {
+  background-color: rgb(226, 58, 58);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 22px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  transition: opacity 0.11s, box-shadow 0.11s;
+}
+
+.reference-button:hover {
+  opacity: 0.8;
+  box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+.reference-button:active {
+  opacity: 0.4;
+}
+
+.reference2 {
+  background-color: rgb(12, 95, 95);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 22px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  transition: opacity 0.11s, box-shadow 0.11s;
+}
+
+.reference2:hover {
+  opacity: 0.8;
+  box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+.reference2:active {
+  opacity: 0.4;
+}
+
+table, th, td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
