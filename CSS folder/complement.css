@@ -7,12 +7,6 @@
   text-align: center;
 }
 
-.news {
-  width: 350px;
-  text-align: center;
-  display: block;
-}
-
 ol {
   width: 350px;
   text-align: justify;
@@ -90,6 +84,13 @@ table, th, td {
   text-align: center;
   padding: 10px;
   border-radius: 10px;
+}
+
+.news {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  display: block;
 }
 
 .news-article {
