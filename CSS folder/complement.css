@@ -1,6 +1,6 @@
 .main-title {
   margin: auto;
-  width: 50%;
+  width: 98%;
   border: 3px solid black;
   border-radius: 10px;
   padding: 10px;
@@ -75,7 +75,7 @@ ul {
 
 table, th, td {
   margin: auto;
-  width: 50%;
+  width: 98%;
   border: 3px solid black;
   text-align: center;
   padding: 10px;
@@ -85,7 +85,7 @@ table, th, td {
 
 .recipes {
   margin: auto;
-  width: 50%;
+  width: 98%;
   border: 3px solid black;
   text-align: center;
   padding: 10px;
@@ -94,7 +94,7 @@ table, th, td {
 
 .news-article {
   margin: auto;
-  width: 50%;
+  width: 98%;
   border: 3px solid black;
   text-align: center;
   padding: 10px;
@@ -126,7 +126,7 @@ footer {
 
 .main-table {
   margin: auto;
-  width: 50%;
+  width: 98%;
   border: 3px solid black;
   text-align: center;
   padding: 10px;
