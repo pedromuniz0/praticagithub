@@ -79,7 +79,6 @@ table, th, td {
   border: 3px solid black;
   text-align: center;
   padding: 10px;
-  border-radius: 10px;
   border: 1px solid;
   border-collapse: collapse;
 }
@@ -123,4 +122,13 @@ footer {
 
 .monitor:hover {
   opacity: 0.8;
+}
+
+.main-table {
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
 }
