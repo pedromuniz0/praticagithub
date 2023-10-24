@@ -107,6 +107,8 @@ footer {
   padding: 3px;
   background-color: rgb(209, 207, 207);
   color: white;
+  border: none;
+  border-radius: 10px;
 }
 
 .pen-drive {
