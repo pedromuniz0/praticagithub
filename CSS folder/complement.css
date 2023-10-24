@@ -3,6 +3,7 @@
   width: 50%;
   border: 3px solid black;
   border-radius: 10px;
+  padding: 10px;
   text-align: center;
 }
 
@@ -73,6 +74,12 @@ ul {
 }
 
 table, th, td {
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
   border: 1px solid;
   border-collapse: collapse;
 }
@@ -93,4 +100,27 @@ table, th, td {
   text-align: center;
   padding: 10px;
   border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(209, 207, 207);
+  color: white;
+}
+
+.pen-drive {
+  background-color: rgb(216, 216, 216);
+}
+
+.pen-drive:hover {
+  opacity: 0.8;
+}
+
+.monitor {
+  background-color: rgb(216, 216, 216);
+}
+
+.monitor:hover {
+  opacity: 0.8;
 }
